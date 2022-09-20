@@ -1,0 +1,19 @@
+{
+  "name": "lab-01-401",
+  "version": "1.0.0",
+  "description": "lab-01",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test watch "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeltaV-Instructor/lab-01-401-js.git"
+  },
+  "author": "Craig Barkley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeltaV-Instructor/lab-01-401-js/issues"
+  },
+  "homepage": "https://github.com/DeltaV-Instructor/lab-01-401-js#readme"
+}
